@@ -1,5 +1,5 @@
 - Hi, I’m Jennifer Fransson!
-- I’m a Bioinformatician at NBIS Sweden
+- I’m a Bioinformatician at NBIS (Sweden)
 - I’m currently working on transcriptomic analysis at a bulk, single-cell and spatial level
 - You can reach me at jennifer.fransson@scilifelab.se
 
